@@ -44,6 +44,7 @@ ALLWIFIBOARDS:= \
 	netgear_wax630 \
 	prpl_haze \
 	qnap_301w \
+  qihoo_v6 \
 	redmi_ax5 \
 	redmi_ax5-jdcloud \
 	redmi_ax6 \
@@ -162,6 +163,7 @@ $(eval $(call generate-ipq-wifi-package,netgear_wax218,Netgear WAX218))
 $(eval $(call generate-ipq-wifi-package,netgear_wax620,Netgear WAX620))
 $(eval $(call generate-ipq-wifi-package,netgear_wax630,Netgear WAX630))
 $(eval $(call generate-ipq-wifi-package,qnap_301w,QNAP 301w))
+$(eval $(call generate-ipq-wifi-package,qihoo_v6,Qihoo V6))
 $(eval $(call generate-ipq-wifi-package,prpl_haze,prpl Haze))
 $(eval $(call generate-ipq-wifi-package,redmi_ax5,Redmi AX5))
 $(eval $(call generate-ipq-wifi-package,redmi_ax5-jdcloud,Redmi AX5 JDCloud))

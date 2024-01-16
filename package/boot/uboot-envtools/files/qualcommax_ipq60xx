@@ -11,6 +11,7 @@ case "$board" in
     glinet,gl-ax1800|\
     glinet,gl-axt1800|\
     redmi,ax5|\
+    qihoo,v6|\
     xiaomi,ax1800)
         idx="$(find_mtd_index 0:appsblenv)"
         [ -n "$idx" ] && \

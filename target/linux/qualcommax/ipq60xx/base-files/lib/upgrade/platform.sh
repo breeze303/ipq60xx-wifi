@@ -19,6 +19,7 @@ platform_do_upgrade() {
 	glinet,gl-axt1800|\
 	glinet,gl-ax1800|\
 	redmi,ax5|\
+	qihoo,v6|\
 	xiaomi,ax1800)
 		nand_do_upgrade "$1"
 		;;
