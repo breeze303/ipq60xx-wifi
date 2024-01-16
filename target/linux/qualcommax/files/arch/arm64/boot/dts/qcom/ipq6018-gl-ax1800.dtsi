@@ -14,8 +14,9 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-#include "ipq6018-512m.dtsi"
+#include "ipq6018.dtsi"
 #include "ipq6018-ess.dtsi"
+#include "ipq6018-512m.dtsi"
 #include "ipq6018-nss.dtsi"
 
 

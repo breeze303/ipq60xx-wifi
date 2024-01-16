@@ -12,7 +12,7 @@ full customization, to use the device in ways never envisioned.
 Sunshine!
 
 ## Download
-1
+
 Built firmware images are available for many architectures and come with a
 package selection to be used as WiFi home router. To quickly find a factory
 image usable to migrate from a vendor stock firmware to OpenWrt, try the
